@@ -1,0 +1,25 @@
+.divo2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.dl_link {
+    color: #ccc;
+    background-color: #35373d;
+    width: 90%;
+    text-align: center;
+    padding: 10px;
+    margin: 5px 0px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+
+}
+
+.dl_link:hover {
+    color: #fff;
+    background-color: #45474b;
+}
